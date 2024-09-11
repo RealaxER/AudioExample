@@ -11,6 +11,6 @@ make
 
 example: 
 
-./convert input.ext1 output.ext2
+./convert ../music/music.mp3 ../music.wav
 
 ./generate_a(create music files)
